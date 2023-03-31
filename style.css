@@ -1,11 +1,29 @@
 p {
   font-size: 14pt;
   backround-color: light blue;
+  Color: black;
+  }
+
+ul{
+  Font-weight: bold;
 }
 
-p {
+ol{
   Width: 20px;
+}
+
+h1{
   Height: 70px;
 }
 
+header{
+      
+}
 
+body{
+    
+}
+
+footer{
+
+}
